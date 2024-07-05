@@ -1,0 +1,13 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-color: black;
+    padding: 40px 0;
+}
+.color{
+    color: #747474;
+}
+.skills-padding{
+    padding: 250px 0px;
+}
